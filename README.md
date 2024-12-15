@@ -10,4 +10,4 @@ https://colab.research.google.com/drive/1zpo_Hff4P5Z5Vx_DP0WUT4xbhjQCVh1F?usp=sh
 https://colab.research.google.com/drive/1pIlsCeMwMa_r8F1cPjyl5f11QOLmM-WA?usp=sharing
 
 ### 2 лаба
-https://colab.research.google.com/drive/10YV4ivOmhF1aGCwZTWQeCp1D838umCMM?usp=sharing
+
