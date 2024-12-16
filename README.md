@@ -13,4 +13,4 @@ https://colab.research.google.com/drive/1pIlsCeMwMa_r8F1cPjyl5f11QOLmM-WA?usp=sh
 https://colab.research.google.com/drive/10YV4ivOmhF1aGCwZTWQeCp1D838umCMM?usp=sharing
 
 UPD (проведено усовершенствование подготовки данных к обучению благодаря другой стандартизации)
-https://colab.research.google.com/drive/10YV4ivOmhF1aGCwZTWQeCp1D838umCMM?usp=sharing
+
